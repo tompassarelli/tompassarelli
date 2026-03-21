@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>Building:</strong> FirnOS · Fennec<br/>
-<strong>Elsewhere:</strong> <a href="https://tompassarelli.org">Blog</a> · <a href="https://www.linkedin.com/in/thomas-passarelli-33759b229">LinkedIn</a> · <a href="https://www.reddit.com/user/tompas7989/">Reddit</a></p>
+<a href="https://tompassarelli.org">Blog</a> · <a href="https://www.linkedin.com/in/thomas-passarelli-33759b229">LinkedIn</a> · <a href="https://www.reddit.com/user/tompas7989/">Reddit</a></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=emacs" alt="Emacs" height="32" />
