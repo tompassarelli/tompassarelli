@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>Building:</strong> FirnOS · Fennec<br/>
-<a href="https://tompassarelli.org">Blog</a> · <a href="https://www.linkedin.com/in/thomas-passarelli-33759b229">LinkedIn</a> · <a href="https://www.reddit.com/user/tompas7989/">Reddit</a> · <a href="https://app.daily.dev/tompas">daily.dev</a> · <a href="https://news.ycombinator.com/threads?id=tompassarelli">Hacker News</a>
+<a href="https://tompassarelli.org">Blog</a> · <a href="https://www.linkedin.com/in/thomas-passarelli-33759b229">LinkedIn</a> · <a href="https://www.reddit.com/user/tompas7989/">Reddit</a> · <a href="https://news.ycombinator.com/threads?id=tompassarelli">Hacker News</a> · <a href="https://app.daily.dev/tompas">daily.dev</a>
 </p>
 
 <p align="center">
