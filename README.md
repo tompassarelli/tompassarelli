@@ -2,7 +2,12 @@
 
 <p align="center">
 <strong>Building:</strong> FirnOS · Fennec<br/>
-<a href="https://tompassarelli.org">Blog</a> · <a href="https://www.linkedin.com/in/thomas-passarelli-33759b229">LinkedIn</a> · <a href="https://www.reddit.com/user/tompas7989/">Reddit</a></p>
+<a href="https://tompassarelli.org"><img src="https://raw.githubusercontent.com/tompassarelli/tompassarelli/main/icons/blog.svg" alt="Blog" height="32" /></a>
+<a href="https://www.linkedin.com/in/thomas-passarelli-33759b229"><img src="https://raw.githubusercontent.com/tompassarelli/tompassarelli/main/icons/linkedin.svg" alt="LinkedIn" height="32" /></a>
+<a href="https://www.reddit.com/user/tompas7989/"><img src="https://raw.githubusercontent.com/tompassarelli/tompassarelli/main/icons/reddit.svg" alt="Reddit" height="32" /></a>
+<a href="https://app.daily.dev/tompas"><img src="https://raw.githubusercontent.com/tompassarelli/tompassarelli/main/icons/dailydev.svg" alt="daily.dev" height="32" /></a>
+<a href="https://news.ycombinator.com/threads?id=tompassarelli"><img src="https://raw.githubusercontent.com/tompassarelli/tompassarelli/main/icons/hackernews.svg" alt="Hacker News" height="32" /></a>
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=emacs" alt="Emacs" height="32" />
