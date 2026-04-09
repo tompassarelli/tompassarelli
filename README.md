@@ -11,7 +11,8 @@
 <br/>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=emacs" alt="Emacs" height="32" />
-<img src="https://raw.githubusercontent.com/tompassarelli/tompassarelli/main/icons/commonlisp.svg" alt="Common Lisp" height="32" />
+<img src="https://skillicons.dev/icons?i=emacs" alt="Emacs" height="32" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=clojure" alt="Clojure" height="32" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tompassarelli/tompassarelli/main/icons/commonlisp.svg" alt="Common Lisp" height="32" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nix" alt="Nix" height="32" />
 </p>
