@@ -1,7 +1,7 @@
 <h1 align="center">Tom Passarelli</h1>
 
 <p align="center">
-<strong>Building:</strong> FirnOS · Palefox
+<strong>Building:</strong> Palefox · FirnOS
 </p>
 
 <p align="center">
