@@ -10,7 +10,7 @@ Building an agent-native software stack from the substrate up: an operating syst
 
 **[North](https://github.com/tompassarelli/north)** — human + agent coordination on Fram. Capture an intention as facts, then ask what's ready, blocked, and highest-leverage; the board is derived, never hand-maintained. The same coordinator drives multi-agent work: spawn, steer, dispatch.
 
-## Elsewhere
+## Declarative Systems, Tooling, and Apps
 
 - **[gaffer](https://github.com/tompassarelli/gaffer)** — multi-agent orchestration: routes delegated work to the right model and effort across CLIs and harnesses.
 - **[firn](https://github.com/tompassarelli/firn)** — typed authoring layer for NixOS / nix-darwin; catches config errors at the source line, before rebuild.
