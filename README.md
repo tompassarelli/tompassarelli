@@ -1,6 +1,6 @@
 # Tom Passarelli
 
-Building an agent-native software stack from the substrate up: a fact-graph database, a typed language projected from it, and a coordination layer that humans and AI agents share. The thesis running through all of it — a program's source of truth should be a fact graph, not text.
+Building an agent-native software stack from the substrate up: an operating system, fact-graph database, a typed language projected from it, and a coordination layer that humans and AI agents share. The thesis running through all of it — a program's source of truth should be a fact graph, not text.
 
 ## Building
 
