@@ -20,7 +20,7 @@ Building an agent-native software stack from the substrate up: a fact-graph data
 
 ## Now
 
-Founder at Autonymy, building products on that substrate. Fractional CTO at MSA, leading a platform rebuild in TypeScript and Postgres.
+Founder at Passer, building products on that substrate. Fractional CTO at MSA, leading a platform rebuild in TypeScript and Postgres.
 
 ## Writing
 
