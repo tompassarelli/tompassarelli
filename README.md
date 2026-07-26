@@ -17,9 +17,9 @@ Building graph-native systems from the bottom up: an operating system, fact-grap
 - **[wake](https://github.com/tompassarelli/wake)** — declarative web-app compiler; one checked entity graph projects to direct-DOM UI, SQL, a REST server, and tests — no virtual DOM, no runtime.
 
 ## Contributor: 
-- Firefox - vertical-tabs fix
+- Firefox - vertical-tabs bug fix
 - Kanata - tap-hold-order mechanism
-- Datastar Python SDK - lightstar support
+- Datastar Python SDK - lightstar bug fix
 
 ## Now
 
