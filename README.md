@@ -16,10 +16,11 @@ Building graph-native systems from the bottom up: an operating system, fact-grap
 - **[gjoa](https://github.com/tompassarelli/gjoa)** — a Firefox fork where the power-user stack — blocking, tree-style tabs, vim navigation, workspaces — is native, not bolted on through extensions.
 - **[wake](https://github.com/tompassarelli/wake)** — declarative web-app compiler; one checked entity graph projects to direct-DOM UI, SQL, a REST server, and tests — no virtual DOM, no runtime.
 
-## Contributor: 
-- Firefox - vertical-tabs bug fix
-- Kanata - tap-hold-order mechanism
-- Datastar Python SDK - lightstar bug fix
+## Contributor
+
+- [Firefox](https://github.com/mozilla-firefox/firefox) - vertical-tabs bug fix
+- [Kanata](https://github.com/jtroo/kanata) - `tap-hold-order` mechanism
+- [Datastar Python SDK](https://github.com/starfederation/datastar-python) - Litestar bug fix
 
 ## Now
 
