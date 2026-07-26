@@ -32,4 +32,4 @@ Essays on process-primitive ontology, evaluation gates, and agency theory, publi
 
 ---
 
-[tompassarelli.org](https://tompassarelli.org) · tom.passarelli@protonmail.com · in/tom-passarelli-33759b229
+[tompassarelli.org](https://tompassarelli.org) · tom.passarelli@protonmail.com · [in/tom-passarelli-33759b229](https://www.linkedin.com/in/tom-passarelli-33759b229/)
