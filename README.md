@@ -8,15 +8,18 @@ Building graph-native systems from the bottom up: an operating system, fact-grap
 
 **[Beagle](https://github.com/tompassarelli/beagle)** — a typed Lisp where one source compiles to Clojure, JavaScript, Nix, and Odin, each rendered idiomatically. Built as an authoring surface for AI coding agents: a warm, def-level type checker returns pointed errors fast enough to collapse the repair loop. Beagle text is a projection of the Fram graph — delete the file, re-render it from the log, and it recompiles clean.
 
-**[North](https://github.com/tompassarelli/north)** — human + agent coordination on Fram. Capture an intention as facts, then ask what's ready, blocked, and highest-leverage; the board is derived, never hand-maintained. The same coordinator drives multi-agent work: spawn, steer, dispatch.
+**[North](https://github.com/tompassarelli/north)** — human + agent coordination/orchestration on Fram. Capture an intention as facts, then ask what's ready, blocked, and highest-leverage; the board is derived, never hand-maintained. The same coordinator drives multi-agent work: spawn, steer, dispatch.
 
 ## Declarative Systems, Tooling, and Apps
 
-- **[gaffer](https://github.com/tompassarelli/gaffer)** — multi-agent orchestration: routes delegated work to the right model and effort across CLIs and harnesses.
 - **[firn](https://github.com/tompassarelli/firn)** — typed authoring layer for NixOS / nix-darwin; catches config errors at the source line, before rebuild.
-- **[wake](https://github.com/tompassarelli/wake)** — declarative web-app compiler; one checked entity graph projects to direct-DOM UI, SQL, a REST server, and tests — no virtual DOM, no runtime.
 - **[gjoa](https://github.com/tompassarelli/gjoa)** — a Firefox fork where the power-user stack — blocking, tree-style tabs, vim navigation, workspaces — is native, not bolted on through extensions.
-- Upstream: a Firefox vertical-tabs fix, Kanata's tap-hold-order mechanism, a Datastar Python SDK fix.
+- **[wake](https://github.com/tompassarelli/wake)** — declarative web-app compiler; one checked entity graph projects to direct-DOM UI, SQL, a REST server, and tests — no virtual DOM, no runtime.
+
+## Contributor: 
+- Firefox - vertical-tabs fix
+- Kanata - tap-hold-order mechanism
+- Datastar Python SDK - lightstar support
 
 ## Now
 
