@@ -6,7 +6,7 @@ Building graph-native systems from the bottom up: an operating system, fact-grap
 
 **[Fram](https://github.com/tompassarelli/fram)** — append-only fact-graph database (triples + Datalog). Every fact is an immutable, addressable triple; lifecycle is derived, never stored. Agents commit facts to one canonical log, so a whole class of merge conflict is impossible by construction — and renames re-point references by identity, not spelling.
 
-**[Beagle](https://github.com/tompassarelli/beagle)** — a typed Lisp where one source compiles to Clojure, JavaScript, Nix, and Odin, each rendered idiomatically. Built as an authoring surface for AI coding agents: a warm, def-level type checker returns pointed errors fast enough to collapse the repair loop. Beagle text is a projection of the Fram graph — delete the file, re-render it from the log, and it recompiles clean.
+**[Beagle](https://github.com/tompassarelli/beagle)** — a typed Lisp where one source compiles to multiple targets, each rendered idiomatically. Built as an authoring surface for AI coding agents: a warm, def-level type checker returns pointed errors fast enough to collapse the repair loop. Beagle text is a projection of the Fram graph — delete the file, re-render it from the log, and it recompiles clean.
 
 **[North](https://github.com/tompassarelli/north)** — human + agent coordination/orchestration on Fram. Capture an intention as facts, then ask what's ready, blocked, and highest-leverage; the board is derived, never hand-maintained. The same coordinator drives multi-agent work: spawn, steer, dispatch.
 
