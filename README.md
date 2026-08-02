@@ -1,6 +1,6 @@
 # Tom Passarelli
 
-Building graph-native systems from the bottom up: fact-graph database, a typed language projected from it, and a coordination layer that humans and AI agents share.
+Building graph-native systems from the bottom up: a database, a typed language projected from it, and a coordination layer that humans and AI agents share.
 
 ## Building
 
