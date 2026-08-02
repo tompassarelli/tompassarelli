@@ -1,6 +1,6 @@
 # Tom Passarelli
 
-Building graph-native systems from the bottom up: fact-graph database, a typed language projected from it, and a coordination layer that humans and AI agents share. The thesis running through all of it — a program's source of truth should be a fact graph, not text files.
+Building graph-native systems from the bottom up: fact-graph database, a typed language projected from it, and a coordination layer that humans and AI agents share.
 
 ## Building
 
