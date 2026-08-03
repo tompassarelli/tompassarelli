@@ -1,12 +1,12 @@
 # Tom Passarelli
 
-Building an agent-native software stack from the substrate up: a fact-graph database, a typed language projected from it, and a coordination layer that humans and AI agents share. The thesis running through all of it — a program's source of truth should be a fact graph, not text.
+Building an agent-native software stack from the substrate up: a fact-graph database, a typed language, and a coordination layer that humans and AI agents share. The thesis running through all of it: give agents structured state and tight feedback without making the authoring path harder.
 
 ## Building
 
 **[Fram](https://github.com/tompassarelli/fram)** — append-only fact-graph database (triples + Datalog). Every fact is an immutable, addressable triple; lifecycle is derived, never stored. Agents commit facts to one canonical log, so a whole class of merge conflict is impossible by construction — and renames re-point references by identity, not spelling.
 
-**[Beagle](https://github.com/tompassarelli/beagle)** — a typed Lisp where one source compiles to Clojure, JavaScript, Nix, and Odin, each rendered idiomatically. Built as an authoring surface for AI coding agents: a warm, def-level type checker returns pointed errors fast enough to collapse the repair loop. Beagle text is a projection of the Fram graph — delete the file, re-render it from the log, and it recompiles clean.
+**[Beagle](https://github.com/tompassarelli/beagle)** — a typed Lisp where one source compiles to Clojure, JavaScript, Nix, and Odin, each rendered idiomatically. Built as an authoring surface for AI coding agents: ordinary text source plus a warm, def-level type checker that returns pointed errors fast enough to collapse the authoring loop.
 
 **[North](https://github.com/tompassarelli/north)** — human + agent coordination on Fram. Capture an intention as facts, then ask what's ready, blocked, and highest-leverage; the board is derived, never hand-maintained. The same coordinator drives multi-agent work: spawn, steer, dispatch.
 
