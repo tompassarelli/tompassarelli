@@ -1,6 +1,6 @@
 # Tom Passarelli
 
-Building agent-native systems from the bottom up: a database, a typed language, and a coordination layer that humans and AI agents share.
+Building agent-native systems from the bottom up: a database, a typed language, and a coordination layer for humans and agents.
 
 ## Building
 
