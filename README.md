@@ -18,8 +18,6 @@ Founder at **Passer** · Fractional CTO at **MSA**
 
 Contributions to **Firefox**, **Kanata**, and the **Datastar Python SDK**.
 
-Writing on process primitives, evaluation gates, and agency theory — start with *The Consistency Gate*.
-
 ---
 
 [tompassarelli.org](https://tompassarelli.org/) · [tom.passarelli@protonmail.com](mailto:tom.passarelli@protonmail.com) · [in/tom-passarelli-33759b229](https://www.linkedin.com/in/tom-passarelli-33759b229/)
