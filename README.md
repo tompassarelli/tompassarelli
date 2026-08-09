@@ -2,7 +2,7 @@
 
 Building agent-native systems from the bottom up: a database, typed language, and coordination layer.
 
-## Building
+## Active Projects
 
 [**Fram**](https://github.com/tompassarelli/fram) — append-only fact-graph database built from immutable, addressable triples + Datalog.
 
