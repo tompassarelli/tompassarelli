@@ -2,6 +2,8 @@
 
 [**Beagle**](https://github.com/tompassarelli/beagle) — Beagle is an independent statically typed Lisp derived from Clojure.
 
+[**Clause**](https://github.com/tompassarelli/clause) — Rust research-language PoC exploring typed relations, immutable semantic Models/Revisions, finite modes, and evidence-backed explanations.
+
 [**North**](https://github.com/tompassarelli/north) — human + agent coordination on Fram; derives what's ready, blocked, and highest-leverage.
 
 [**Firn**](https://github.com/tompassarelli/firn) — typed authoring for NixOS / nix-darwin.
