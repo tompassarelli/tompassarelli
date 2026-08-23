@@ -1,7 +1,5 @@
 # Tom Passarelli
 
-Building agent-native systems from the bottom up: a database, typed language, and coordination layer.
-
 ## Active Projects
 
 [**Beagle**](https://github.com/tompassarelli/beagle) — Beagle is an independent statically typed Lisp derived from Clojure.
