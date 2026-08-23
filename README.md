@@ -1,5 +1,3 @@
-# Tom Passarelli
-
 ## Active Projects
 
 [**Beagle**](https://github.com/tompassarelli/beagle) — Beagle is an independent statically typed Lisp derived from Clojure.
