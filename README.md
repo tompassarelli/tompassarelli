@@ -4,7 +4,7 @@ Building agent-native systems from the bottom up: a database, typed language, an
 
 ## Active Projects
 
-[**Beagle**](https://github.com/tompassarelli/beagle) — A durable programming system unifying code, state, compilation, and execution through semantic computation
+[**Beagle**](https://github.com/tompassarelli/beagle) — Beagle is an independent statically typed Lisp derived from Clojure.
 
 [**North**](https://github.com/tompassarelli/north) — human + agent coordination on Fram; derives what's ready, blocked, and highest-leverage.
 
