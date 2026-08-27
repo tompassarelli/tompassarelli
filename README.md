@@ -4,7 +4,7 @@
 
 [**Clause**](https://github.com/tompassarelli/clause) — A process-first relational programming language
 
-[**North**](https://github.com/tompassarelli/north) — human + agent coordination on Fram; derives what's ready, blocked, and highest-leverage.
+[**North**](https://github.com/tompassarelli/north) — human + agent coordination surface / harness
 
 [**Firn**](https://github.com/tompassarelli/firn) — typed authoring for NixOS / nix-darwin.
 
