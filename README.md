@@ -1,8 +1,8 @@
 ## Active Projects
 
-[**Beagle**](https://github.com/tompassarelli/beagle) — Beagle is an independent statically typed Lisp derived from Clojure.
-
 [**Clause**](https://github.com/tompassarelli/clause) — A process-first relational programming language
+
+[**Beagle**](https://github.com/tompassarelli/beagle) — Beagle is an independent statically typed Lisp derived from Clojure.
 
 [**North**](https://github.com/tompassarelli/north) — hybrid actor (human, agent) coordination surface / harness
 
